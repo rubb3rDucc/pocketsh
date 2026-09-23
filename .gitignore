@@ -1,0 +1,4 @@
+pocketsh
+*.o
+*.dSYM/
+.DS_Store

@@ -1,5 +1,7 @@
 # pocketsh
 
+(cleaned up school project. removed the assignment identifiers for future OS student lurkers)
+
 A small interactive shell in C, written to understand how `fork`, `exec`,
 file descriptors and signal handling actually fit together instead of just
 reading about them.
